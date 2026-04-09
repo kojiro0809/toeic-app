@@ -4,7 +4,7 @@
 「わからない単語だけを効率よく叩き込む」ことを目的とし、ユーザーの記憶の定着をサポートする複数のテストモードと可視化機能を備えています。
 
 <div align="center">
-  <img src="★https://github.com/user-attachments/assets/8045588e-adee-45c8-b885-cb906ec4f0f5" width="250">
+  <img src="https://github.com/user-attachments/assets/8045588e-adee-45c8-b885-cb906ec4f0f5" width="250">
 </div>
 
 
