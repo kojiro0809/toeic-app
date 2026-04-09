@@ -6,7 +6,6 @@ import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { ActivityIndicator, Alert, Dimensions, FlatList, Keyboard, KeyboardAvoidingView, Linking, Platform, SafeAreaView, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 
 // データ読み込み
-// data.js (または data.ts) が同じフォルダにある前提です
 import { Word, wordList } from './data';
 
 const LEVELS = ['400','500','600', '700', '800'];
