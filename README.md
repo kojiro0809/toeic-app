@@ -3,7 +3,9 @@
 完全オフラインで動作し、「個人の苦手」に徹底的にフォーカスしたTOEIC単語学習アプリです。
 「わからない単語だけを効率よく叩き込む」ことを目的とし、ユーザーの記憶の定着をサポートする複数のテストモードと可視化機能を備えています。
 
-![ScreenRecording_04-10-2026-00-53-57_1-_online-video-cutter com_](https://github.com/user-attachments/assets/8045588e-adee-45c8-b885-cb906ec4f0f5)
+<div align="center">
+  <img src="★https://github.com/user-attachments/assets/8045588e-adee-45c8-b885-cb906ec4f0f5" width="250">
+</div>
 
 
 ## プロダクトのコア・コンセプト（開発の意図）
